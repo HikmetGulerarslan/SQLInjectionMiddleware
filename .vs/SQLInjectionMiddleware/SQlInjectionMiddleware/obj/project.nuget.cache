@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "dCrzmU8NfVnx1dygJRmwooHXiUJW+ZjdMpD9Cfqe6MEV4yO3YoPbMDbD0OBEA0n0H18dfXZ4qhVxhpe+71uIRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hkmet\\source\\repos\\HikmetGulerarslan\\SQLInjectionMiddleware\\.vs\\SQLInjectionMiddleware\\SQlInjectionMiddleware\\SQlInjectionMiddleware.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hkmet\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Hkmet\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\Hkmet\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\system.diagnostics.eventlog.7.0.0.nupkg.sha512",
+    "C:\\Users\\Hkmet\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Hkmet\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\Hkmet\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Hkmet\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
